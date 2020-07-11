@@ -1,5 +1,5 @@
 # github Api
-
+!(https://st-gdx.dancf.com/matting/clip/20200711-160858-096e.jpg)[]
 ## 使用案例
 
 
@@ -35,7 +35,7 @@ echo (GithubUp::getInstance($git)->validate());
 
 **请求参数 file:[file]**
 
-**工蜂仓库**：**<https://git.code.tencent.com/xiflys/githubapiUpload>** 
+
 
 
 
