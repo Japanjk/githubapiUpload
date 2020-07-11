@@ -1,5 +1,5 @@
 # github Api
-![](https://st-gdx.dancf.com/matting/clip/20200711-160858-096e.jpg)
+![https://st-gdx.dancf.com/matting/clip/20200711-160858-096e.jpg](https://st-gdx.dancf.com/matting/clip/20200711-160858-096e.jpg)
 ## 使用案例
 
 
