@@ -1,17 +1,11 @@
 # github Api
-!(https://st-gdx.dancf.com/matting/clip/20200711-160858-096e.jpg)[]
+!()[https://st-gdx.dancf.com/matting/clip/20200711-160858-096e.jpg]
 ## 使用案例
 
 
 
 ```php
 <?php
-/*
- * @Author: xiflys 
- * @Date: 2020-07-11 14:24:56 
- * @Last Modified by: xiflys
- * @Last Modified time: 2020-07-11 14:31:07
- */
 require './githubApi.php';
 ignore_user_abort(true);
 error_reporting(0);
