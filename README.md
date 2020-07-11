@@ -1,5 +1,5 @@
 # github Api
-![演示图](https://common-fd.zol-img.com.cn/g5/M00/01/03/ChMkJ18Jd66ITy50AAIKJ0l2h5EAAw1GgOxJSEAAgo_098.jpg)
+演示图：https://common-fd.zol-img.com.cn/g5/M00/01/03/ChMkJ18Jd66ITy50AAIKJ0l2h5EAAw1GgOxJSEAAgo_098.jpg
 ## 使用案例
 
 
